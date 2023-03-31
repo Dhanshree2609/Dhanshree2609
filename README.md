@@ -1,3 +1,4 @@
+<img src="https://github.com/Dhanshree2609/Dhanshree2609/blob/main/github.png?raw=true"/>
 <h1 align="center">Hi 👋, I'm Dhanshree</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="center">A curious student who loves to explore new technologies</h3>
